@@ -5,7 +5,7 @@
 
 A Keras implementation of pix2pix (Tensorflow backend) inspired by [Image-to-Image Translation Using Conditional Adversarial Networks](https://arxiv.org/pdf/1611.07004v1.pdf).
 
-<img width="600" height="800" src="model illustrator.png" alt="example"/>
+<img width="600" height="510" src="model illustrator.png" alt="example"/>
 
 ---
 
